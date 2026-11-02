@@ -1,0 +1,6 @@
+# Ansys results (re-generated on solve)
+*.aedtresults/
+*.aedt.lock
+*.aedt.auto
+__pycache__/
+Thumbs.db
